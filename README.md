@@ -1,5 +1,5 @@
 # WPM_lens_simulator
-Using WPM allows us for fast and accurate fiber/PIC lenses development
+Using WPM allows us for fast and accurate fiber/PIC lenses development. Check https://doi.org/10.1117/1.JOM.4.2.024501 for more information about the algorithm. 
 
 **USAGE GUIDE**
 
