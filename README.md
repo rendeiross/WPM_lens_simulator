@@ -3,6 +3,8 @@ Using WPM allows us for fast and accurate fiber/PIC lenses development
 
 **USAGE GUIDE**
 
+Copy WPM_launcher.py and WPM_helpers.py to a new folder and run GUI.py, install dependencies if required.
+
 Parameter Configuration: Enter the desired optical and geometric parameters in the left control panel.
 
 Run Sim / Load:
